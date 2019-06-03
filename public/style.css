@@ -1,0 +1,33 @@
+
+#myDiv {
+	width: 100%;
+	opacity: 0.65;
+}
+
+html, body {
+	overflow-x: hidden;
+}
+
+.join-reg {
+	display: inline-block;
+}
+
+.new-order {
+	border: 2px solid black;
+	border-radius: 10px;
+}
+
+.enclosing {
+	padding: 20px 20px;
+}
+
+.headings {
+	font-family: 'Poiret One', cursive;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+body {
+	background-image: url("images/background.jpg");
+	background-repeat: repeat;
+}
